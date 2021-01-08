@@ -1351,7 +1351,7 @@ eslint-config-airbnb@^13.0.0:
 
 eslint-config-meteor@0.0.9:
   version "0.0.9"
-  resolved "http://registry.npmjs.org/eslint-config-meteor/-/eslint-config-meteor-0.0.9.tgz#6be219420ba4a3ea023db30a866e60ef487652fa"
+  resolved "https://registry.npmjs.org/eslint-config-meteor/-/eslint-config-meteor-0.0.9.tgz#6be219420ba4a3ea023db30a866e60ef487652fa"
 
 eslint-import-resolver-meteor@^0.3.3:
   version "0.3.4"
@@ -1692,8 +1692,8 @@ formsy-react@^0.18.1:
     form-data-to-object "^0.2.0"
 
 forwarded@~0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/forwarded/-/forwarded-0.1.0.tgz#19ef9874c4ae1c297bcf078fde63a09b66a84363"
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/forwarded/-/forwarded-0.1.2.tgz#98c23dab1175657b8c0573e8ceccd91b0ff18c84"
 
 fresh@0.3.0:
   version "0.3.0"
